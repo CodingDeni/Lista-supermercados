@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <supermercados>
+    <super1 array="true">
+      <nombre>mercadona</nombre>
+      <direccion>Calle del mercadona obvimente, 1</direccion>
+      <geolocalizacion array="true">39.4683246,-0.4081344,12</geolocalizacion>
+      <productos>
+        <nombre>cuapan</nombre>
+        <precio>2.50</precio>
+        <unidades>1</unidades>
+        <unidadesMedida>unidad</unidadesMedida>
+        <oferta boolean="true">false</oferta>
+        <habitual boolean="true">false</habitual>
+        <comprado boolean="true">false</comprado>
+      </productos>
+      <productos>
+        <nombre>cereales rellenos</nombre>
+        <precio>1.36</precio>
+        <unidades>2</unidades>
+        <unidadesMedida>unidad</unidadesMedida>
+        <oferta boolean="true">false</oferta>
+        <habitual boolean="true">true</habitual>
+        <comprado boolean="true">false</comprado>
+      </productos>
+    </super1>
+  </supermercados>
+  <supermercados>
+    <super2 array="true">
+      <nombre>mercadona</nombre>
+      <direccion>Calle del mercadona obvimente, 1</direccion>
+      <geolocalizacion array="true">39.4683246,-0.4081344,12</geolocalizacion>
+      <productos>
+        <nombre>cuapan</nombre>
+        <precio>2,50</precio>
+        <unidades>1</unidades>
+        <unidadesMedida>unidad</unidadesMedida>
+        <oferta boolean="true">false</oferta>
+        <habitual boolean="true">false</habitual>
+        <comprado boolean="true">false</comprado>
+      </productos>
+      <productos>
+        <nombre>cereales rellenos</nombre>
+        <precio>1,36</precio>
+        <unidades>2</unidades>
+        <unidadesMedida>unidad</unidadesMedida>
+        <oferta boolean="true">false</oferta>
+        <habitual boolean="true">true</habitual>
+        <comprado boolean="true">false</comprado>
+      </productos>
+    </super2>
+  </supermercados>
+</root>

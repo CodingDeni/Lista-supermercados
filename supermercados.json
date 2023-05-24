@@ -1,0 +1,71 @@
+{
+    "supermercados":[
+        {
+            "super1":[
+                        {
+                            "nombre": "mercadona",
+                            "direccion": "Calle del mercadona obvimente, 1",
+                            "geolocalizacion": ["39.4683246,-0.4081344,12"],
+                            "productos": [
+                                {
+                                    "nombre":"cuapan",
+                                    "precio": "2.50",
+                                    "unidades": "1",
+                                    "unidadesMedida": "unidad",
+                                    "oferta": false,
+                                    "habitual": false,
+                                    "comprado":false
+                                },
+
+                                {
+                                    "nombre":"cereales rellenos",
+                                    "precio": "1.36",
+                                    "unidades": "2",
+                                    "unidadesMedida": "unidad",
+                                    "oferta": false,
+                                    "habitual": true,
+                                    "comprado":false
+                                }
+
+                            ]
+
+                        }
+            ]
+
+        },
+        {
+            "super2":[  
+                {
+                    "nombre": "mercadona",
+                    "direccion": "Calle del mercadona obvimente, 1",
+                    "geolocalizacion": ["39.4683246,-0.4081344,12"],
+                    "productos": [
+                        {
+                            "nombre":"cuapan",
+                            "precio": "2,50",
+                            "unidades": "1",
+                            "unidadesMedida": "unidad",
+                            "oferta": false,
+                            "habitual": false,
+                            "comprado":false
+                        },
+
+                        {
+                            "nombre":"cereales rellenos",
+                            "precio": "1,36",
+                            "unidades": "2",
+                            "unidadesMedida": "unidad",
+                            "oferta": false,
+                            "habitual": true,
+                            "comprado":false
+                        }
+
+                    ]
+
+                }
+            ]
+        }
+
+
+    ] 
+}
